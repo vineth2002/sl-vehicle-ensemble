@@ -3,8 +3,7 @@
 Hands-On Ensemble Learning Project - Machine Learning and Pattern Recognition
 **Student:** Vineth Nallaperuma
 
-**Live dashboard:** _add your Streamlit Community Cloud URL here_
-**Presentation video:** _add your video link here_
+**Live dashboard:** [_sl-vehicle-ensemble-224131f.streamlit.app_](https://sl-vehicle-ensemble-224131f.streamlit.app/)
 
 This project predicts the asking price of used cars in Sri Lanka and compares the three ensemble paradigms (**bagging, boosting, stacking**) and a **hybrid Random Forest + ANN** model, with an interactive Streamlit dashboard for model comparison, feature importance and live predictions.
 
