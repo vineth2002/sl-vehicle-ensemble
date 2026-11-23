@@ -297,10 +297,13 @@ with tab_about:
 5. **Tuning:** GridSearchCV with 3-fold cross-validation, scored by RMSE on log(price).
 6. **Evaluation:** 20% held-out test set; RMSE (log) as the primary metric, plus MAE, R² and MAPE.
 
-#### AI usage acknowledgment
-Generative AI (Claude, by Anthropic) was used in this project to help write the Python code for data
-preprocessing, model training and evaluation, and to build this Streamlit dashboard, as well as to explain
-the underlying ML concepts. All code was reviewed, run and checked by the student, and the results and
-their interpretation were analysed by the student. See the notebook and README for full details.
+## 13. AI Usage Acknowledgment
+
+I used **Claude (Anthropic)** in this project for:
+
+- **Learning:** explanations of the ML concepts and ensemble methods.
+- **Dataset choice:** comparing possible Sri Lankan datasets.
+- **Code:** for the code of `ml_utils.py`, this dashboard and notebook.
+
 """
     )
