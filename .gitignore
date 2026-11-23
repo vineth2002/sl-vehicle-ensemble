@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+.DS_Store
+.venv/
+
+# Claude Code local config and skills
+.claude/
